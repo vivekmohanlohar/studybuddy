@@ -1,0 +1,2 @@
+# studybuddy
+educational website
